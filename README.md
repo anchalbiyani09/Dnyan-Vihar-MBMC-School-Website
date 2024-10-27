@@ -1,6 +1,7 @@
 # ज्ञान विहार 
 
-**ज्ञान विहार** is an innovative web platform designed to empower students from diverse backgrounds by helping them explore educational and career pathways. It offers personalized guidance through advanced technology, supporting informed decision-making about academic and vocational opportunities. The platform caters to a multilingual audience and is accessible in English, Hindi, and Marathi.
+**ज्ञान विहार** is an innovative web platform developed as part of my industry project, designed to empower students from diverse backgrounds by helping them explore educational and career pathways. It offers personalized guidance through advanced technology, supporting informed decision-making about academic and vocational opportunities. The platform caters to a multilingual audience and is accessible in English, Hindi, and Marathi.
+
 
 [Visit the Website](https://dnyanvihar.netlify.app/)
 
