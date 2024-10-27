@@ -76,6 +76,8 @@ Once the platform is running, you can:
 
 ## Contributing
 
-We welcome contributions! If you would like to enhance the platform, add new features, or fix bugs, please follow these steps:
+We welcome contributions! If you would like to enhance the platform, add new features, or fix bugs.
 
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
