@@ -75,14 +75,6 @@ Once the platform is running, you can:
 - **Access Career Resources**: Browse comprehensive information on various educational and career options, including academic streams and vocational courses.
 - **Chatbot Assistance**: Utilize the AI-powered chatbot for real-time assistance with questions related to academics, career paths, or platform functionality.
 
-- ## **Contact**
-For queries or suggestions, feel free to reach out:
-- **Email:** [anchalbiyani09@gmail.com](mailto:anchalbiyani09@gmail.com)  
-- **GitHub:** [Anchal Biyani](https://github.com/anchalbiyani09)
-
----
-
-
 ## Contributing
 
 We welcome contributions! If you would like to enhance the platform, add new features, or fix bugs.
@@ -90,3 +82,10 @@ We welcome contributions! If you would like to enhance the platform, add new fea
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+- ## **Contact**
+For queries or suggestions, feel free to reach out:
+- **Email:** [anchalbiyani09@gmail.com](mailto:anchalbiyani09@gmail.com)  
+- **GitHub:** [Anchal Biyani](https://github.com/anchalbiyani09)
+
+---
